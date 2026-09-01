@@ -1,0 +1,32 @@
+# Claude
+.claude/
+
+# macOS
+.DS_Store
+
+# IntelliJ / IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+
+# Node
+/package-lock.json
+node_modules/
+.next/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Logs
+*.log
+npm-debug.log*
