@@ -1,6 +1,6 @@
-# Task List App
+# Task Manager
 
-Task List App is a collaborative full-stack task management application built with Spring Boot, MongoDB, and Next.js. It supports account-based task tracking, task editing, task sharing, notifications, and custom task ordering.
+Task Manager is a collaborative full-stack task management application built with Spring Boot, MongoDB, and Next.js. It supports account-based task tracking, task editing, task sharing, notifications, and custom task ordering.
 
 ## Overview
 
